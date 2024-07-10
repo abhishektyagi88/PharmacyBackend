@@ -31,4 +31,4 @@ The system facilitates user authentication, pharmacy and medicine management, ph
 * Database: MongoDB
 * Caching: Node-cache (optionally Redis)
 * Authentication: JWT
-Validation: express-validator
+
